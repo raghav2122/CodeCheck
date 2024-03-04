@@ -1,0 +1,647 @@
+[
+  {
+    "idNo": 1,
+    "probName": "Set Matrix Zeros",
+    "lcLink": "https://leetcode.com/problems/set-matrix-zeroes/"
+  },
+  {
+    "idNo": 2,
+    "probName": "Pascal's Triangle",
+    "lcLink": "https://leetcode.com/problems/pascals-triangle/"
+  },
+  {
+    "idNo": 3,
+    "probName": "Next Permutation",
+    "lcLink": "https://leetcode.com/problems/next-permutation/"
+  },
+  {
+    "idNo": 4,
+    "probName": "Kadane's Algorithm",
+    "lcLink": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "idNo": 5,
+    "probName": "Sort an array of 0's, 1's and 2's",
+    "lcLink": "https://leetcode.com/problems/sort-colors/"
+  },
+  {
+    "idNo": 6,
+    "probName": "Stock Buy and Sell",
+    "lcLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "idNo": 7,
+    "probName": "Rotate Matrix",
+    "lcLink": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "idNo": 8,
+    "probName": "Merge Overlapping Subintervals",
+    "lcLink": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "idNo": 9,
+    "probName": "Merge two sorted arrays without extra spac…",
+    "lcLink": "https://leetcode.com/problems/merge-sorted-array/"
+  },
+  {
+    "idNo": 10,
+    "probName": "Find the duplicate in an array of N+1 inte…",
+    "lcLink": "https://leetcode.com/problems/find-the-duplicate-number/"
+  },
+  {
+    "idNo": 11,
+    "probName": "Search in a 2 D matrix",
+    "lcLink": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "idNo": 12,
+    "probName": "Pow(x, n)",
+    "lcLink": "https://leetcode.com/problems/powx-n/"
+  },
+  {
+    "idNo": 13,
+    "probName": "Majority Element (>n/2 times)",
+    "lcLink": "https://leetcode.com/problems/majority-element/"
+  },
+  {
+    "idNo": 14,
+    "probName": "Majority Element (n/3 times)",
+    "lcLink": "https://leetcode.com/problems/majority-element-ii/"
+  },
+  {
+    "idNo": 15,
+    "probName": "Grid Unique Paths",
+    "lcLink": "https://leetcode.com/problems/unique-paths/"
+  },
+  {
+    "idNo": 16,
+    "probName": "Reverse Pairs (Leetcode)",
+    "lcLink": "https://leetcode.com/problems/reverse-pairs/"
+  },
+  {
+    "idNo": 17,
+    "probName": "2Sum Problem",
+    "lcLink": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "idNo": 18,
+    "probName": "4-Sum Problem",
+    "lcLink": "https://leetcode.com/problems/4sum/"
+  },
+  {
+    "idNo": 19,
+    "probName": "Longest Consecutive Sequence",
+    "lcLink": "https://leetcode.com/problems/longest-consecutive-sequence/"
+  },
+  {
+    "idNo": 20,
+    "probName": "Longest Substring without repeat",
+    "lcLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "idNo": 21,
+    "probName": "Reverse a LinkedList",
+    "lcLink": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "idNo": 22,
+    "probName": "Find the middle of LinkedList",
+    "lcLink": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  {
+    "idNo": 23,
+    "probName": "Merge two sorted Linked List (use method u…",
+    "lcLink": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "idNo": 24,
+    "probName": "Remove N-th node from back of LinkedList",
+    "lcLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+  },
+  {
+    "idNo": 25,
+    "probName": "Add two numbers as LinkedList",
+    "lcLink": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "idNo": 26,
+    "probName": "Delete a given Node when a node is given.(…",
+    "lcLink": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+  },
+  {
+    "idNo": 27,
+    "probName": "Find intersection point of Y LinkedList",
+    "lcLink": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+  },
+  {
+    "idNo": 28,
+    "probName": "Detect a cycle in Linked List",
+    "lcLink": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "idNo": 29,
+    "probName": "Reverse a LinkedList in groups of size k.",
+    "lcLink": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+  },
+  {
+    "idNo": 30,
+    "probName": "Check if a LinkedList is palindrome or not…",
+    "lcLink": "https://leetcode.com/problems/palindrome-linked-list/"
+  },
+  {
+    "idNo": 31,
+    "probName": "Find the starting point of the Loop of Lin…",
+    "lcLink": "https://leetcode.com/problems/linked-list-cycle-ii/"
+  },
+  {
+    "idNo": 32,
+    "probName": "Rotate a LinkedList",
+    "lcLink": "https://leetcode.com/problems/rotate-list/description/"
+  },
+  {
+    "idNo": 33,
+    "probName": "Clone a Linked List with random and next p…",
+    "lcLink": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+  },
+  {
+    "idNo": 34,
+    "probName": "3 sum",
+    "lcLink": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "idNo": 35,
+    "probName": "Trapping Rainwater",
+    "lcLink": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "idNo": 36,
+    "probName": "Remove Duplicate from Sorted array",
+    "lcLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "idNo": 37,
+    "probName": "Max consecutive ones",
+    "lcLink": "https://leetcode.com/problems/max-consecutive-ones/"
+  },
+  {
+    "idNo": 38,
+    "probName": "Subset-II",
+    "lcLink": "https://leetcode.com/problems/subsets-ii/"
+  },
+  {
+    "idNo": 39,
+    "probName": "Combination sum-1",
+    "lcLink": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
+    "idNo": 40,
+    "probName": "Combination sum-2",
+    "lcLink": "https://leetcode.com/problems/combination-sum-ii/"
+  },
+  {
+    "idNo": 41,
+    "probName": "Palindrome Partitioning",
+    "lcLink": "https://leetcode.com/problems/palindrome-partitioning/"
+  },
+  {
+    "idNo": 42,
+    "probName": "K-th permutation Sequence",
+    "lcLink": "https://leetcode.com/problems/permutation-sequence/"
+  },
+  {
+    "idNo": 43,
+    "probName": "Print all permutations of a string/array",
+    "lcLink": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "idNo": 44,
+    "probName": "N queens Problem",
+    "lcLink": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "idNo": 45,
+    "probName": "Sudoko Solver",
+    "lcLink": "https://leetcode.com/problems/sudoku-solver/"
+  },
+  {
+    "idNo": 46,
+    "probName": "Find the element that appears once in a so…",
+    "lcLink": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+  },
+  {
+    "idNo": 47,
+    "probName": "Search element in a sorted and rotated arr…",
+    "lcLink": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "idNo": 48,
+    "probName": "Median of 2 sorted arrays",
+    "lcLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "idNo": 49,
+    "probName": "Kth Largest Element",
+    "lcLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "idNo": 50,
+    "probName": "Find Median from Data Stream",
+    "lcLink": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "idNo": 51,
+    "probName": "K most frequent elements",
+    "lcLink": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "idNo": 52,
+    "probName": "Implement Stack using Queue (using single …",
+    "lcLink": "https://leetcode.com/problems/implement-stack-using-queues/"
+  },
+  {
+    "idNo": 53,
+    "probName": "Implement Queue using Stack (0(1) amortize…",
+    "lcLink": "https://leetcode.com/problems/implement-queue-using-stacks/"
+  },
+  {
+    "idNo": 54,
+    "probName": "Check for balanced parentheses",
+    "lcLink": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "idNo": 55,
+    "probName": "Next Greater Element",
+    "lcLink": "https://leetcode.com/problems/next-greater-element-i/"
+  },
+  {
+    "idNo": 56,
+    "probName": "LRU cache (IMPORTANT)",
+    "lcLink": "https://leetcode.com/problems/lru-cache/"
+  },
+  {
+    "idNo": 57,
+    "probName": "LFU cache",
+    "lcLink": "https://leetcode.com/problems/lfu-cache/"
+  },
+  {
+    "idNo": 58,
+    "probName": "Largest rectangle in a histogram",
+    "lcLink": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  },
+  {
+    "idNo": 59,
+    "probName": "Sliding Window maximum",
+    "lcLink": "https://leetcode.com/problems/sliding-window-maximum/"
+  },
+  {
+    "idNo": 60,
+    "probName": "Implement Min Stack",
+    "lcLink": "https://leetcode.com/problems/min-stack/"
+  },
+  {
+    "idNo": 61,
+    "probName": "Rotten Orange (Using BFS)",
+    "lcLink": "https://leetcode.com/problems/rotting-oranges/"
+  },
+  {
+    "idNo": 62,
+    "probName": "Stock span problem",
+    "lcLink": "https://leetcode.com/problems/online-stock-span/"
+  },
+  {
+    "idNo": 63,
+    "probName": "Reverse Words in a String",
+    "lcLink": "https://leetcode.com/problems/reverse-words-in-a-string/"
+  },
+  {
+    "idNo": 64,
+    "probName": "Longest Palindrome in a string",
+    "lcLink": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  {
+    "idNo": 65,
+    "probName": "Roman Number to Integer and vice versa",
+    "lcLink": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "idNo": 66,
+    "probName": "Implement ATOI/STRSTR",
+    "lcLink": "https://leetcode.com/problems/string-to-integer-atoi/"
+  },
+  {
+    "idNo": 67,
+    "probName": "Longest Common Prefix",
+    "lcLink": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "idNo": 68,
+    "probName": "Rabin Karp",
+    "lcLink": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
+  },
+  {
+    "idNo": 69,
+    "probName": "Z-Function",
+    "lcLink": "https://leetcode.com/problems/implement-strstr/"
+  },
+  {
+    "idNo": 70,
+    "probName": "KMP algo / LPS(pi) array",
+    "lcLink": "https://leetcode.com/problems/implement-strstr/"
+  },
+  {
+    "idNo": 71,
+    "probName": "Check for Anagrams",
+    "lcLink": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "idNo": 72,
+    "probName": "Count and say",
+    "lcLink": "https://leetcode.com/problems/count-and-say/"
+  },
+  {
+    "idNo": 73,
+    "probName": "Compare version numbers",
+    "lcLink": "https://leetcode.com/problems/compare-version-numbers/"
+  },
+  {
+    "idNo": 74,
+    "probName": "Inorder Traversal",
+    "lcLink": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "idNo": 75,
+    "probName": "Preorder Traversal",
+    "lcLink": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+  },
+  {
+    "idNo": 76,
+    "probName": "Postorder Traversal",
+    "lcLink": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+  },
+  {
+    "idNo": 77,
+    "probName": "Morris Inorder Traversal",
+    "lcLink": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "idNo": 78,
+    "probName": "Vertical order traversal",
+    "lcLink": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+  },
+  {
+    "idNo": 79,
+    "probName": "Max width of a Binary Tree",
+    "lcLink": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+  },
+  {
+    "idNo": 80,
+    "probName": "Level order Traversal / Level order traver…",
+    "lcLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "idNo": 81,
+    "probName": "Height of a Binary Tree",
+    "lcLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
+    "idNo": 82,
+    "probName": "Diameter of Binary Tree",
+    "lcLink": "https://leetcode.com/problems/diameter-of-binary-tree/"
+  },
+  {
+    "idNo": 83,
+    "probName": "Check if the Binary tree is height-balance…",
+    "lcLink": "https://leetcode.com/problems/balanced-binary-tree/"
+  },
+  {
+    "idNo": 84,
+    "probName": "LCA in Binary Tree",
+    "lcLink": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+  },
+  {
+    "idNo": 85,
+    "probName": "Check if two trees are identical or not",
+    "lcLink": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "idNo": 86,
+    "probName": "Zig Zag Traversal of Binary Tree",
+    "lcLink": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+  },
+  {
+    "idNo": 87,
+    "probName": "Boundary Traversal of Binary Tree",
+    "lcLink": "https://leetcode.com/problems/boundary-of-binary-tree/"
+  },
+  {
+    "idNo": 88,
+    "probName": "Maximum path sum",
+    "lcLink": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+  },
+  {
+    "idNo": 89,
+    "probName": "Construct Binary Tree from inorder and pre…",
+    "lcLink": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+  },
+  {
+    "idNo": 90,
+    "probName": "Construct Binary Tree from Inorder and Pos…",
+    "lcLink": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+  },
+  {
+    "idNo": 91,
+    "probName": "Symmetric Binary Tree",
+    "lcLink": "https://leetcode.com/problems/symmetric-tree/"
+  },
+  {
+    "idNo": 92,
+    "probName": "Flatten Binary Tree to LinkedList",
+    "lcLink": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+  },
+  {
+    "idNo": 93,
+    "probName": "Populate Next Right pointers of Tree",
+    "lcLink": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+  },
+  {
+    "idNo": 94,
+    "probName": "Search given Key in BST",
+    "lcLink": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+  },
+  {
+    "idNo": 95,
+    "probName": "Construct BST from given keys",
+    "lcLink": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+  },
+  {
+    "idNo": 96,
+    "probName": "Construct a BST from a preorder traversal",
+    "lcLink": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+  },
+  {
+    "idNo": 97,
+    "probName": "Check is a BT is BST or not",
+    "lcLink": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "idNo": 98,
+    "probName": "Find LCA of two nodes in BST",
+    "lcLink": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+  },
+  {
+    "idNo": 99,
+    "probName": "Find K-th smallest element in BST",
+    "lcLink": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+  },
+  {
+    "idNo": 100,
+    "probName": "Find a pair with a given sum in BST",
+    "lcLink": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+  },
+  {
+    "idNo": 101,
+    "probName": "BST iterator",
+    "lcLink": "https://leetcode.com/problems/binary-search-tree-iterator/"
+  },
+  {
+    "idNo": 102,
+    "probName": "Size of the largest BST in a Binary Tree",
+    "lcLink": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/"
+  },
+  {
+    "idNo": 103,
+    "probName": "Serialize and deserialize Binary Tree",
+    "lcLink": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+  },
+  {
+    "idNo": 104,
+    "probName": "Binary Tree to Double Linked List",
+    "lcLink": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+  },
+  {
+    "idNo": 105,
+    "probName": "Find median in a stream of running integer…",
+    "lcLink": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "idNo": 106,
+    "probName": "K-th largest element in a stream.",
+    "lcLink": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+  },
+  {
+    "idNo": 107,
+    "probName": "K-th largest element in an unsorted array.",
+    "lcLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "idNo": 108,
+    "probName": "Flood-fill Algorithm",
+    "lcLink": "https://leetcode.com/problems/flood-fill/"
+  },
+  {
+    "idNo": 109,
+    "probName": "Clone a graph (Not that easy as it looks)",
+    "lcLink": "https://leetcode.com/problems/clone-graph/"
+  },
+  {
+    "idNo": 110,
+    "probName": "Detect A cycle in Undirected Graph using B…",
+    "lcLink": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "idNo": 111,
+    "probName": "Detect A cycle in Undirected Graph using D…",
+    "lcLink": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "idNo": 112,
+    "probName": "Detect A cycle in a Directed Graph using D…",
+    "lcLink": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "idNo": 113,
+    "probName": "Detect A cycle in a Directed Graph using B…",
+    "lcLink": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "idNo": 114,
+    "probName": "Number of islands(Do in Grid and Graph Bot…",
+    "lcLink": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "idNo": 115,
+    "probName": "Bipartite Check using BFS",
+    "lcLink": "https://leetcode.com/problems/is-graph-bipartite/"
+  },
+  {
+    "idNo": 116,
+    "probName": "Bipartite Check using DFS",
+    "lcLink": "https://leetcode.com/problems/is-graph-bipartite/"
+  },
+  {
+    "idNo": 117,
+    "probName": "Strongly Connected Component(using KosaRaj…",
+    "lcLink": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on"
+  },
+  {
+    "idNo": 118,
+    "probName": "Max Product Subarray",
+    "lcLink": "https://leetcode.com/problems/maximum-product-subarray/"
+  },
+  {
+    "idNo": 119,
+    "probName": "Longest Increasing Subsequence",
+    "lcLink": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "idNo": 120,
+    "probName": "Longest Common Subsequence",
+    "lcLink": "https://leetcode.com/problems/longest-common-subsequence/"
+  },
+  {
+    "idNo": 121,
+    "probName": "Edit Distance",
+    "lcLink": "https://leetcode.com/problems/edit-distance/"
+  },
+  {
+    "idNo": 122,
+    "probName": "Minimum sum path in the matrix, (count pat…",
+    "lcLink": "https://leetcode.com/problems/minimum-path-sum/"
+  },
+  {
+    "idNo": 123,
+    "probName": "Coin change",
+    "lcLink": "https://leetcode.com/problems/coin-change/"
+  },
+  {
+    "idNo": 124,
+    "probName": "Subset Sum",
+    "lcLink": "https://leetcode.com/problems/partition-equal-subset-sum/"
+  },
+  {
+    "idNo": 125,
+    "probName": "Rod Cutting",
+    "lcLink": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
+  },
+  {
+    "idNo": 126,
+    "probName": "Word Break",
+    "lcLink": "https://leetcode.com/problems/word-break/"
+  },
+  {
+    "idNo": 127,
+    "probName": "Implement Trie (Prefix Tree)",
+    "lcLink": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "idNo": 128,
+    "probName": "Maximum XOR of two numbers in an array",
+    "lcLink": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
+  },
+  {
+    "idNo": 129,
+    "probName": "Maximum XOR With an Element From Array",
+    "lcLink": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/"
+  }
+]

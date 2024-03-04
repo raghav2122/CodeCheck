@@ -1,0 +1,35 @@
+.checkbox-options-container {
+    padding: 20px;
+    background-color: #f5deb3;
+    /* Light brown background color */
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.checkbox-options-container select,
+.checkbox-options-container input[type="checkbox"],
+.checkbox-options-container input[type="number"],
+.checkbox-options-container button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.checkbox-options-container button {
+    background-color: #008CBA;
+    /* Blue submit button color */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.checkbox-options-container button:hover {
+    background-color: #005f6b;
+    /* Darker blue hover color */
+}
+
+#dqlText {
+    font-size: 15px;
+    color: #000;
+    margin-bottom: 10px;
+}
