@@ -1,33 +1,37 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
-## Getting Started
 
-First, run the development server:
+# Interview Practice with LeetCode
 
-```bash
-pnpm dev
-# or
-npm run dev
-```
+## Description
 
-Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: `build/chrome-mv3-dev`.
+This Chrome extension helps you practice for interviews by managing your progress on LeetCode problems. It automatically redirects you to unsolved problems, tracks your solved problems, and removes the redirect rule after solving a certain number of problems.
 
-You can start editing the popup by modifying `popup.tsx`. It should auto-update as you make changes. To add an options page, simply add a `options.tsx` file to the root of the project, with a react component default exported. Likewise to add a content page, add a `content.ts` file to the root of the project, importing some module and do some logic, then reload the extension on your browser.
+## Installation
 
-For further guidance, [visit our Documentation](https://docs.plasmo.com/)
+1. Clone this repository to your local machine.
+2. Open Chrome and go to `chrome://extensions/`.
+3. Enable Developer mode in the top right corner.
+4. Click on "Load unpacked" and select the cloned repository folder.
+5. Ensure the extension is enabled.
 
-## Making production build
+## Usage
 
-Run the following:
+1. Open a new tab to start using the extension.
+2. The extension will automatically redirect you to unsolved LeetCode problems.
+3. After solving a problem, the extension will update your progress and remove the redirect rule after solving two problems.
 
-```bash
-pnpm build
-# or
-npm run build
-```
+## Development
 
-This should create a production bundle for your extension, ready to be zipped and published to the stores.
+This extension is built using the Plasmo framework.
 
-## Submit to the webstores
+To run the extension in development mode:
 
-The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/framework/workflows/submit) and you should be on your way for automated submission!
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Run the development server using `npm start`.
+
+## Credits
+
+This extension is developed by [Raghav2122](https://github.com/Raghav2122).
+
+---
