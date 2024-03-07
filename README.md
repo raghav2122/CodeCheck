@@ -28,7 +28,7 @@ To run the extension in development mode:
 
 1. Clone this repository.
 2. Install dependencies using `npm install`.
-3. Run the development server using `npm start`.
+3. Run the development server using `yarn dev`.
 
 ## Credits
 
